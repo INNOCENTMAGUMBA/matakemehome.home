@@ -62,6 +62,9 @@
 	</table>
 
 <div style="margin-top: 400px"></div>
+<footer>
+	<p>copyright &copy; 2018, INNOCENTMAGUMBA</p>
+</footer>
 </body>
 
 </html>
