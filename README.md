@@ -63,7 +63,8 @@
 
 <div style="margin-top: 400px"></div>
 <footer>
-	<p>copyright &copy; 2018, INNOCENTMAGUMBA</p>
+	 <p>copyright &copy; 2018, INNOCENTMAGUMBA</p>
+	 <a href="stdphoto.png">INNOCENTMAGUMBA</a>
 </footer>
 </body>
 
