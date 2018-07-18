@@ -63,8 +63,8 @@
 
 <div style="margin-top: 400px"></div>
 <footer>
-	 <p>copyright &copy; 2018, INNOCENTMAGUMBA</p>
-	 <a href="stdphoto.png">INNOCENTMAGUMBA</a>
+	 <p>copyright &copy; 2018, <a href="stdphoto.png"> <strong><em> INNOCENTMAGUMBA</em> </strong></a>. contact: +256 705155036</p>
+
 </footer>
 </body>
 
