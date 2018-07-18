@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>tulibanno.com</title>
@@ -27,7 +27,7 @@
 	</ol>
 	</p>
 	
-	<! -- table -->
+	
 	<table>
 		<thead>
 			<tr>
