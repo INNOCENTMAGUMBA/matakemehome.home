@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>tulibanno.com</title>
@@ -18,6 +18,7 @@
 		<li>netball</li>
 		<li>baseball</li>
 		<li>teller</li>
+		
 	</ul>
 	<ol>
 		<li>Football</li>
