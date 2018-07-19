@@ -4,7 +4,7 @@
 	<title>tulibanno.com</title>
 </head>
 <body>
-	<h1>TULI BANNO </h1><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Street_Child,_Srimangal_Railway_Station.jpg">
+	<h1>TULI BANNO </h1><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Street_Child,_Srimangal_Railway_Station.jpg" width="450" height="300" alt="street children life. suffered life" title="suffered life/liffyge_ug" align="left" hspace="5" vspace="5">
 	<h2>BULI OMU WAMUGASO</h2>
 	<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	tempor incididunt ut <strong><em>labore et dolore magna</em></strong> aliqua. Ut enim ad minim veniam,
